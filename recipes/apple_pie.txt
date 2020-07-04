@@ -2,3 +2,6 @@ apple
 sugar
 water
 salt
+pepper
+chocolate
+egg
